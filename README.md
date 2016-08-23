@@ -28,7 +28,7 @@ http://203.208.46.147
 C:\Users\jiangchengyong\.m2\repository\com\dili7\website
 
 分支： svn://dili-develop.com/reception/branches/v20140408/dili7-website
-工商注册号
+ 工商注册号
 http://www.gzaic.gov.cn/gsbm/FrmRegBaseopeninfo.aspx
 svn 账号  jiangchengyong=oovqeo5d
 
